@@ -1,12 +1,12 @@
 DemocracyCam
 ============
 
-An oppression-proof image aquisition device
+An oppression-proof image aquisition device.
 
 
 "Democracy Cam" was described to me by Preston Austin as a camera that immediately shares the photos taken with other cameras and devices.  The basic idea is to prevent the capturing of one camera from stopping the flow of documentation during a protest, gathering, etc.
 
-This version (Alpha Zero) is built from off-the-shelf parts and uses [Forban](https://github.com/adulau/Forban) to distribute photos to other devices that are on an [Openwireless.org](http://www.openwireless.org) WiFi network.
+This version (Alpha Zero) is built from off-the-shelf parts and uses [Forban](https://github.com/adulau/Forban) to automatically distribute photos to other devices that are on an [Openwireless.org](http://www.openwireless.org) WiFi network.
 
 ##Hardware
 
